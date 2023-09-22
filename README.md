@@ -48,8 +48,8 @@ hobbies: ["Piano", "Gaming", "BasketBall"]
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/michael-addai-agyei/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-JeanJacques Buhendwa-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:maagyei04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jeanjacquesirenge40@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
+<a href="https://www.linkedin.com/in/michael-addai-agyei/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Agyei Michael Addai-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:maagyei04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maagyei04@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=maagyei04&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
