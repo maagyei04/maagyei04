@@ -52,4 +52,4 @@ hobbies: ["Piano", "Gaming", "BasketBall"]
 <a href="mailto:maagyei04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jeanjacquesirenge40@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=maagyei04&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=maagyei04&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
